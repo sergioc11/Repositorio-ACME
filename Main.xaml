@@ -327,7 +327,7 @@
                     <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <Assign sap:VirtualizedContainerService.HintSize="334.4,142.4" sap2010:WorkflowViewState.IdRef="Assign_3">
+                <Assign DisplayName="Asignación de variables" sap:VirtualizedContainerService.HintSize="334.4,142.4" sap2010:WorkflowViewState.IdRef="Assign_3">
                   <Assign.To>
                     <OutArgument x:TypeArguments="x:Boolean">[estadoFlujoAcme]</OutArgument>
                   </Assign.To>
