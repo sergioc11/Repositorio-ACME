@@ -1,0 +1,6 @@
+{
+  "Name": "RPA Descargar WorkItems de ACME",
+  "ProjectType": "Process",
+  "Description": "Descargar los items de workitems para guardarlos en excel.",
+  "MainFile": "Main.xaml"
+}
